@@ -1,0 +1,11 @@
+C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\bin\Debug\RotMG Scripts.exe.config
+C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\bin\Debug\RotMG Scripts.exe
+C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\bin\Debug\RotMG Scripts.pdb
+C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Debug\RotMG Scripts.csprojAssemblyReference.cache
+C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Debug\RotMG_Scripts.Properties.Resources.resources
+C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Debug\RotMG Scripts.csproj.GenerateResource.cache
+C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Debug\RotMG Scripts.csproj.CoreCompileInputs.cache
+C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Debug\RotMG Scripts.exe
+C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Debug\RotMG Scripts.pdb
+C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Debug\RotMG_Scripts.RushingUserControl.resources
+C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Debug\RotMG_Scripts.RotMGHotkeys.resources
