@@ -6,3 +6,4 @@ C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Release\RotMG_Scripts
 C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Release\RotMG Scripts.csproj.GenerateResource.cache
 C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Release\RotMG Scripts.csproj.CoreCompileInputs.cache
 C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Release\RotMG Scripts.exe
+C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Release\RotMG Scripts.csprojAssemblyReference.cache
