@@ -8,3 +8,4 @@ C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Debug\RotMG Scripts.c
 C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Debug\RotMG Scripts.csproj.CoreCompileInputs.cache
 C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Debug\RotMG Scripts.exe
 C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Debug\RotMG Scripts.pdb
+C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Debug\RotMG_Scripts.PressAnyKeyBox.resources
