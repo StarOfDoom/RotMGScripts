@@ -1,9 +1,0 @@
-C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\bin\Release\RotMG Scripts.exe
-C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Release\RotMG_Scripts.PressAnyKeyBox.resources
-C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Release\RotMG_Scripts.MainForm.resources
-C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Release\RotMG_Scripts.Properties.Resources.resources
-C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Release\RotMG_Scripts.RushingUserControl.resources
-C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Release\RotMG Scripts.csproj.GenerateResource.cache
-C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Release\RotMG Scripts.csproj.CoreCompileInputs.cache
-C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Release\RotMG Scripts.exe
-C:\Users\Star\source\repos\RotMG Scripts\RotMG Scripts\obj\Release\RotMG Scripts.csprojAssemblyReference.cache
